@@ -1,0 +1,6 @@
+.idea/
+data/
+*.pyc
+*.csv
+*.png
+__pycache__/*
